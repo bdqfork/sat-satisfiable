@@ -1,0 +1,5 @@
+Variables: 200, Clauses: 853
+SATISFIABLE with probability:  1.0000
+UNSATISFIABLE with probability:  0.0000
+CPU time: 0.108 s
+Memory: 258.2891 Mb
